@@ -90,7 +90,7 @@ scheme: Pisces
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
-  GitHub: https://yangqiong.github.io/
+  GitHub: https://github.com/yangqiong
   微博: http://weibo.com/1601179830/profile
   # Twitter: https://twitter.com/yang_qiong_go
 
