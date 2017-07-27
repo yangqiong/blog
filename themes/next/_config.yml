@@ -92,6 +92,7 @@ scheme: Pisces
 social:
   GitHub: https://yangqiong.github.io/
   微博: http://weibo.com/1601179830/profile
+  # Twitter: https://twitter.com/yang_qiong_go
 
 # Social Links Icons
 # Icon Mapping:
@@ -103,8 +104,8 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
-  # Twitter: twitter
   Weibo: weibo
+  Twitter: twitter
 
 # Blog rolls
 #links_title: Links
@@ -228,7 +229,7 @@ custom_logo:
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: normal
+highlight_theme: night
 
 
 # ---------------------------------------------------------------
