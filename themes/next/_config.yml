@@ -304,7 +304,7 @@ han: false
 # Disqus
 disqus:
   enable: true
-  shortname: www.leoqyang.com
+  shortname: leoqyang
   count: true
 
 # Hypercomments
