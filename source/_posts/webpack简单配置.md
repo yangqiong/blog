@@ -1,7 +1,6 @@
 ---
-title: '2018-09-21'
-date: 2018-09-21 21:06:42
-tags:
+title: 'webpack简单配置'
+date: 2019-04-30 21:06:42
 ---
 
 ## webpack-dev-server 配置
